@@ -1,0 +1,12 @@
+var f, n;
+
+procedure ;
+begin
+  n := 3;
+  f := 1
+end;
+
+begin
+  n := 3;
+  write f
+end.

@@ -1,0 +1,15 @@
+procedure A;
+    var y;
+
+    procedure B;
+        var x;
+        begin
+          x := y;
+        end;
+
+    begin
+      y := 2;
+      call B;
+    end;
+
+call A.

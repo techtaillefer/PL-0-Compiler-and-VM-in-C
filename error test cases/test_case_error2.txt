@@ -1,0 +1,7 @@
+var f, n;
+
+begin
+  n := 3;
+  f := 1;
+  call n 
+end.
