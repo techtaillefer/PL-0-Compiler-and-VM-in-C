@@ -1,8 +1,7 @@
 Isabella Taillefer
-COP 3402 - Montagne
 -------------------
 
-# Homework 4: [PL/0 Compiler and VM]
+# [PL/0 Compiler and VM]
 
 ---------------------------------------
 
@@ -196,11 +195,4 @@ Error: call of a non-procedure is not allowed
 
 -- There isn't an output for elf.txt when there's an error -- 
 ---------------------------------------
-
-## No team.
-
----------------------------------------
-
-## Contact Information:
-Isabella Taillefer, is152290@ucf.edu
 
